@@ -65,5 +65,12 @@ python workout.py
 - Tambah video demo dan diagram sistem (akan kamu lampirkan).
 - Simpan log kesalahan atau durasi per rep untuk analitik sederhana.
 - Tambah mode latihan baru atau kalibrasi otomatis.
+  
+## **Diagram System**
+<img src="system%20task%20diagram4.png" alt="Pinout Diagram" style="max-width: 600px; height: auto;">
+
+## Uji Coba
+<img src="Ex_4.gif" alt="Uji Coba GIF" style="max-width: 600px; height: auto">
 
 Selamat berlatih! Jika ada error SDK atau serial, cek koneksi perangkat dan izin port.
+
