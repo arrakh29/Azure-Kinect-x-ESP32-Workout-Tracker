@@ -67,10 +67,11 @@ python workout.py
 - Tambah mode latihan baru atau kalibrasi otomatis.
   
 ## **Diagram System**
-<img src="system%20task%20diagram4.png" alt="Pinout Diagram" style="max-width: 600px; height: auto;">
+<img src="Documentation/Designsystem.png" alt="Pinout Diagram" style="max-width: 600px; height: auto;">
 
 ## Uji Coba
 <img src="Ex_4.gif" alt="Uji Coba GIF" style="max-width: 600px; height: auto">
 
 Selamat berlatih! Jika ada error SDK atau serial, cek koneksi perangkat dan izin port.
+
 
